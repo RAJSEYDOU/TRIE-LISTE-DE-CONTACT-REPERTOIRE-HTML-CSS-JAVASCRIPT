@@ -1,0 +1,38 @@
+
+
+/*
+body{
+	margin:0px;
+	padding: 0px;
+}*/
+ul li{
+	list-style: none;
+	padding: 1rem;
+	border-bottom: 1px solid blue;
+
+}
+ul {
+	/*background-color: grey;*/
+}
+
+
+.container{
+	width: 400px;
+	height:auto;
+	position: relative;
+	left:35%;
+	top:35%;
+	border: 1px solid red;
+
+}
+h4{
+	text-align: center;
+}
+#input{
+	background-color: #777;
+
+}
+#input:focus{
+	background-color:white;
+
+}
